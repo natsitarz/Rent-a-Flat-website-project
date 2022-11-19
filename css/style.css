@@ -22,7 +22,7 @@
     font-weight: bolder;
 }
 
-#title {
+.title {
     margin-bottom: 100px;
 }
 
@@ -30,12 +30,12 @@
     margin-top: 60px;
 }
 
-#ttl {
+.ttl {
     font-size: 25px;
     text-align: left;
 }
 
-#ttr {
+.ttr {
     font-size: 25px;
     text-align: right;
 }
@@ -50,7 +50,7 @@
     margin-right: 5%;
 }
 
-#inf {
+.inf {
     margin-left: 30%;
     margin-right: 30%;
 }
