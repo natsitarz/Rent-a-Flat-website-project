@@ -1,0 +1,104 @@
+#hd {
+    font-size: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+    text-align: left;
+    margin-bottom: 130px;
+}
+
+.sicon {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 66px;
+    height: 64px;
+}
+
+#hdd {
+    font-size: 70px;
+    padding-top: 10px;
+    padding-left: 20px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+#title {
+    margin-bottom: 100px;
+}
+
+.tcm {
+    margin-top: 60px;
+}
+
+#ttl {
+    font-size: 25px;
+    text-align: left;
+}
+
+#ttr {
+    font-size: 25px;
+    text-align: right;
+}
+
+#tp {
+    padding-top: 30px;
+}
+
+#main {
+    background-color: rgba(0, 0, 0, 0.247);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#inf {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+#c1 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#bg {
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(149, 230, 233, 0.548);
+    width: fit-content;
+    height: 100%;
+    right: 0;
+    padding: 100%;
+    z-index: -1;
+}
+
+#bgi {
+    width: fit-content;
+    max-width: 400%;
+    height: 100%;
+    top: 0;
+    position: fixed;
+    z-index: -2;
+}
+
+.tc1 {
+    font-weight: 1000;
+}
+
+.tc2 {
+    font-weight: 400;
+    margin-bottom: 100px;
+}
+
+#contact-size {
+    font-size: 35px;
+}
+
+#btn-marg {
+    margin-top: 10px;
+}
