@@ -45,7 +45,7 @@
 }
 
 #main {
-    background-color: rgba(0, 0, 0, 0.247);
+    background-color: rgba(0, 0, 0, 0.166);
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -69,7 +69,7 @@
 #bg {
     position: fixed;
     bottom: 0;
-    background-color: rgba(149, 230, 233, 0.548);
+    background-color: rgba(149, 230, 233, 0.689);
     width: fit-content;
     height: 100%;
     right: 0;
